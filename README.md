@@ -1,4 +1,4 @@
-# easy-Tenancy-V4
+# easy-Tenancy-V19
 
 A tenancy management app with AI integration using Genspark.ai.
 
